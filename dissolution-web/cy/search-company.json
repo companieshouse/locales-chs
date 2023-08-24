@@ -5,12 +5,13 @@
     "fileId": "3",
     "ver": "1.4.7"
   },
-  "title": "Search company - ",
-  "btn_back": "Back",
-  "btn_continue": "Continue",
-  "P100": "What is the company number",
-  "P200": "This is the 8 character reference issued by Companies House when the company was set up.",
-  "P300": "Help with company number",
-  "P400": "You can find it using the ",
-  "P500": "(opens in a new tab)"
+
+  "title": "Cwmni chwilio - " ,
+  "btn_back": "Yn ôl" ,
+  "btn_continue": "Parhau",
+  "P100": "Beth yw rhif y cwmni",
+  "P200": "Dyma'r cyfeirnod 8 nod a gyhoeddwyd gan Dŷ'r Cwmnïau pan sefydlwyd y cwmni.",
+  "P300": "Cymorth gyda rhif cwmni",
+  "P400": "Gallwch ddod o hyd iddo gan ddefnyddio'r",
+  "P500": "(yn agor mewn tab newydd)"
 }
