@@ -5,14 +5,14 @@
     "fileId": "4",
     "ver": "2.2.1"
   },
-  "title": "View company information - ",
-  "h1": "View company information",
-  "P100": "You cannot use this service",
-  "P200": "Company number",
-  "P300": "Status",
-  "P400": "Incorporation date",
-  "P500": "Company type",
-  "P600": "Registered office address",
-  "P700": "Confirm and continue",
-  "lnk1": "Choose a different company"
+  "title": "Féach ar fhaisnéis cuideachta - ",
+  "h1": "Féach ar fhaisnéis cuideachta",
+  "P100": "Ní féidir leat an tseirbhís seo a úsáid",
+  "P200": "Uimhir cuideachta",
+  "P300": "Stádas",
+  "P400": "Dáta corpraithe",
+  "P500": "Cineál cuideachta",
+  "P600": "Seoladh oifige cláraithe",
+  "P700": "Deimhnigh agus lean ar aghaidh",
+  "lnk1": "Roghnaigh cuideachta eile"
 }

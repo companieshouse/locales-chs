@@ -5,12 +5,12 @@
     "fileId": "3",
     "ver": "1.4.7"
   },
-  "title": "Search company - ",
-  "btn_back": "Back",
-  "btn_continue": "Continue",
-  "P100": "What is the company number",
-  "P200": "This is the 8 character reference issued by Companies House when the company was set up.",
-  "P300": "Help with company number",
-  "P400": "You can find it using the ",
-  "P500": "(opens in a new tab)"
+  "title": "Cuardaigh cuideachta - ",
+  "btn_back": "Ar ais",
+  "btn_continue": "Lean ar aghaidh",
+  "P100": "Cad í uimhir na cuideachta",
+  "P200": "Seo an tagairt 8 gcarachtar a d'eisigh Teach na gCuideachtaí nuair a bunaíodh an chuideachta.",
+  "P300": "Cabhair le huimhir chuideachta",
+  "P400": "Is féidir leat é a aimsiú trí úsáid a bhaint as an " ,
+  "P500": "(osclaíonn sé i gcluaisín nua)"
 }
