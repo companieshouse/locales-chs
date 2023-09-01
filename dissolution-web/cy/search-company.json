@@ -1,16 +1,7 @@
 {
-  "_id": {
-    "serviceName": "dissolution-web",
-    "bundleId": "1.2.3",
-    "fileId": "3",
-    "ver": "1.4.7"
-  },
-  "title": "Cwmni chwilio - " ,
-  "btn_back": "Yn ôl" ,
-  "btn_continue": "Parhau",
-  "P100": "Beth yw rhif y cwmni",
-  "P200": "Dyma'r cyfeirnod 8 nod a gyhoeddwyd gan Dŷ'r Cwmnïau pan sefydlwyd y cwmni.",
-  "P300": "Cymorth gyda rhif cwmni",
-  "P400": "Gallwch ddod o hyd iddo gan ddefnyddio'r",
-  "P500": "(yn agor mewn tab newydd)"
+    "srch_what" : "Beth yw rhif y cwmni?",
+    "srch_8char" : "Dyma'r cyfeirnod 8 nod a gyhoeddwyd gan Dŷ'r Cwmnïau pan sefydlwyd y cwmni",
+    "srch_help" : "Help gyda rhif cwmni",
+    "srch_find" : "Gallwch ddod o hyd iddo gan ddefnyddio'r",
+    "srch_ch_service" : "Gwasanaeth Tai Cwmnïau (yn agor mewn tab newydd)"
 }

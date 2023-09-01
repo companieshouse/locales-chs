@@ -1,16 +1,7 @@
 {
-  "_id": {
-    "serviceName": "auflösungs-web",
-    "bundleId": "1.2.3",
-    "fileId": "3",
-    "ver": "1.4.7"
-  },
-  "title": "Firma suchen - ",
-  "btn_back": "Zurück",
-  "btn_continue": "Weiter",
-  "P100": "Was ist die Firmennummer",
-  "P200": "Dies ist die 8-stellige Referenz, die bei der Gründung des Unternehmens vom Companies House ausgestellt wurde.",
-  "P300": "Hilfe mit Firmennummer",
-  "P400": "Du findest es mit dem ",
-  "P500": "(öffnet sich in einem neuen Tab)"
+    "srch_what": "Wie lautet die Firmennummer?",
+    "srch_8char": "Dies ist die 8-stellige Referenz, die von Companies House bei der Gründung des Unternehmens ausgegeben wurde.",
+    "srch_help": "Hilfe zur Firmennummer",
+    "srch_find": "Sie können es finden, indem Sie",
+    "srch_ch_service": "Companies House Service (öffnet sich in einem neuen Tab)"
 }

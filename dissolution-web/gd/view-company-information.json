@@ -1,18 +1,10 @@
 {
-  "_id": {
-    "serviceName": "dissolution-web",
-    "bundleId": "1.2.3",
-    "fileId": "4",
-    "ver": "2.2.1"
-  },
-  "title": "Féach ar fhaisnéis cuideachta - ",
-  "h1": "Féach ar fhaisnéis cuideachta",
-  "P100": "Ní féidir leat an tseirbhís seo a úsáid",
-  "P200": "Uimhir cuideachta",
-  "P300": "Stádas",
-  "P400": "Dáta corpraithe",
-  "P500": "Cineál cuideachta",
-  "P600": "Seoladh oifige cláraithe",
-  "P700": "Deimhnigh agus lean ar aghaidh",
-  "lnk1": "Roghnaigh cuideachta eile"
+    "vci_view" : "Féach ar fhaisnéis cuideachta",
+    "vci_cannot" : "Ní féidir leat an tseirbhís seo a úsáid",
+    "vci_co_num" : "Uimhir cuideachta",
+    "vci_status" : "Stádas",
+    "vci_inc_date" : "Dáta corpraithe",
+    "vci_co_type" : "Cineál cuideachta",
+    "vci_reg_addr" : "Seoladh oifige cláraithe",
+    "vci_diff " : "Roghnaigh cuideachta eile"
 }

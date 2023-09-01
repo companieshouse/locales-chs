@@ -1,16 +1,7 @@
 {
-  "_id": {
-    "serviceName": "dissolution-web",
-    "bundleId": "1.2.3",
-    "fileId": "3",
-    "ver": "1.4.7"
-  },
-  "title": "Cuardaigh cuideachta - ",
-  "btn_back": "Ar ais",
-  "btn_continue": "Lean ar aghaidh",
-  "P100": "Cad í uimhir na cuideachta",
-  "P200": "Seo an tagairt 8 gcarachtar a d'eisigh Teach na gCuideachtaí nuair a bunaíodh an chuideachta.",
-  "P300": "Cabhair le huimhir chuideachta",
-  "P400": "Is féidir leat é a aimsiú trí úsáid a bhaint as an " ,
-  "P500": "(osclaíonn sé i gcluaisín nua)"
+    "srch_what" : "Cad í uimhir na cuideachta?",
+    "srch_8char" : "Seo an tagairt 8 gcarachtar a d'eisigh Teach na gCuideachtaí nuair a bunaíodh an chuideachta",
+    "srch_help" : "Cabhair le huimhir cuideachta",
+    "srch_find" : "Is féidir leat é a aimsiú leis an",
+    "srch_ch_service" : "Seirbhís Tithe na gCuideachtaí (osclaítear i gcluaisín nua)"
 }
