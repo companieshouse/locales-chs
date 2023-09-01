@@ -1,18 +1,8 @@
 {
-  "_id": {
-    "serviceName": "dissolution-web",
-    "bundleId": "1.2.3",
-    "fileId": "2",
-    "ver": "1.0.2"
-  },
-  "suffix": "GOV.UK",
-  "Title": "Wrth bwy i ddweud - ",
-  "btn_back": "Yn ôl" ,
-  "btn_continue": "Parhau" ,
-  "lnk1": "dogfennaethUrl",
-  "P100": "Rhaid i gyfarwyddwyr neu aelodau roi copi o'r cais hwn i bawb sydd â diddordeb o fewn 7 diwrnod iddo gael ei gyflwyno. Gallwch lawrlwytho copi PDF o'r cais ar ôl i chi ei gyflwyno.",
-  "P200": "Darllenwch y",
-  "P300": "rhestr lawn o bartïon â diddordeb y mae'n rhaid i chi roi gwybod iddynt am y cwmni yn cau (yn agor mewn tab newydd)",
-  "P400": "Mae'n drosedd i beidio â dweud wrth bawb sydd â diddordeb bod cais wedi'i wneud i gau'r cwmni.",
-  "P500": "Mae'r cyfarwyddwyr neu'r aelodau yn deall eu bod yn gyfrifol am hysbysu pawb sydd â diddordeb."
+    "who_who" : "Wrth bwy i ddweud - ",
+    "who_who_close" : "Wrth bwy i ddweud am y cwmni'n cau",
+    "who_copy" : "Rhaid i gyfarwyddwyr neu aelodau roi copi o'r cais hwn i bawb sydd â diddordeb o fewn 7 diwrnod iddo gael ei gyflwyno. Gallwch lawrlwytho copi PDF o'r cais ar ôl i chi ei gyflwyno.",
+    "who_full_list" : "rhestr lawn o bartïon â diddordeb mae'n rhaid i chi roi gwybod iddynt am y cwmni yn cau (yn agor mewn tab newydd)",
+    "who_criminal" : "Mae'n drosedd i beidio â dweud wrth bawb sydd â diddordeb bod cais wedi'i wneud i gau'r cwmni.",
+    "who_understand" : "Mae'r cyfarwyddwyr neu'r aelodau yn deall eu bod yn gyfrifol am hysbysu pawb sydd â diddordeb."
 }

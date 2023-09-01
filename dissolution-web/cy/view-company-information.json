@@ -1,18 +1,10 @@
 {
-  "_id": {
-    "serviceName": "dissolution-web",
-    "bundleId": "1.2.3",
-    "fileId": "4",
-    "ver": "2.2.1"
-  },
-  "title": "Gweld gwybodaeth cwmni - " ,
-  "h1": "Gweld gwybodaeth cwmni",
-  "P100": "Ni allwch ddefnyddio'r gwasanaeth hwn",
-  "P200": "Rhif y cwmni",
-  "P300": "Statws",
-  "P400": "Dyddiad corffori",
-  "P500": "Math o gwmni",
-  "P600": "Cyfeiriad swyddfa gofrestredig",
-  "P700": "Cadarnhau a pharhau",
-  "lnk1": "Dewis cwmni gwahanol"
+    "vci_view" : "Gweld gwybodaeth cwmni",
+    "vci_cannot" : "Ni allwch ddefnyddio'r gwasanaeth hwn",
+    "vci_co_num" : "Rhif cwmni",
+    "vci_status" : "Statws",
+    "vci_inc_date" : "Dyddiad corffori",
+    "vci_co_type" : "Math o gwmni",
+    "vci_reg_addr" : "Cyfeiriad swyddfa cofrestredig",
+    "vci_diff" : "Dewiswch gwmni gwahanol"
 }
