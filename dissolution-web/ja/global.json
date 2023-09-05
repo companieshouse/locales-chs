@@ -2,6 +2,6 @@
     "glob_read" : "読む",
     "glob_btn_start" : "今すぐ開始",
     "glob_btn_back" : "戻る",
-    "glob_btn_ continue" : "続行",
-    "glob_conf_ continue" : "確認して続行します"
+    "glob_btn_continue" : "続行",
+    "glob_conf_continue" : "確認して続行します"
 }
