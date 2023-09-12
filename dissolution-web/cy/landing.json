@@ -12,5 +12,6 @@
     "lnd_download" : "Gallwch hefyd fewngofnodi i'r gwasanaeth hwn i lawrlwytho copi o'ch cais ar ôl iddo gael ei gyflwyno.",
     "lnd_before" : "Cyn i chi ddechrau",
     "lnd_lnk_guidance" : "https://www.gov.uk/government/publications/company-strike-off-dissolution-and-restoration/strike-off-dissolution-and-restoration",
-    "lnd_guidance" : "canllaw ar gyfer dileu a diddymu cwmni (yn agor mewn tab newydd)"
+    "lnd_guidance" : "canllaw ar gyfer dileu a diddymu cwmni (yn agor mewn tab newydd).",
+    "lnd_guidancf" : "canllaw ar gyfer dileu a"
 }
